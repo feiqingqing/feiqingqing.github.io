@@ -75,7 +75,7 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 
 ### Talks
 - **2025.12** Contrary-to-Duty Rights: From Hohfeld To Agreement Revision, at the 38th International Conference on Legal Knowledge and Information Systems (JURIX 2025).
-- **2025.12** A Principle–Based Robustness Analysis of Labeling–Based Bipolar Argumentation Semantics, at the Luxembourg Logic & AI Summit (LUXLOGAI 2026).
+- **2025.12** A Principle–Based Robustness Analysis of Labeling–Based Bipolar Argumentation Semantics, at the Luxembourg Logic & AI Summit (LUXLOGAI 2025).
 - **2025.11** Reasons and Arguments in Artificial Intelligence (Invited talk, together with Leon van der Torre), at the international research workshop of The Weight of Reasons and Normative Reasoning.
 - **2025.06** Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI: Symbolic Constraints over Large Language Models via Prompt Engineering, at the 20th International Conference on AI and Law, Chicago, America 
 - **2025.06** Artificial General Intelligence and Law (Invited Talk, co-presented with Leon van der Torre), at Global Artificial Intelligence Technology Conference, Forum on Law and Artificial Intelligence, Hangzhou, China 

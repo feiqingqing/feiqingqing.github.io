@@ -130,7 +130,7 @@ main:
     authors: Chen CHEN, Pere PARDO, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
     conference_short: CLAR
     conference: International Conference on Logic and Argumentation (CLAR2023)
-    pdf: ./assets/files/bipolar JELIA.pdf
+    pdf: ./assets/files/CLAR_2023_weakest_link.pdf
     page: https://link.springer.com/chapter/10.1007/978-3-031-40875-5_5
     bibtex: ./assets/files/weakest.txt
     image: ./assets/files/bipolar JELIA.jpg

@@ -1,15 +1,15 @@
 # Basic Information 
-title: Liuwen YU
-position: Postdoctoral researcher  
-affiliation: Luxembourg Institute of Science and Technology
-affiliation_link: https://www.list.lu/
-email: yuliuwen02@gmail.com
+title: Qingqing Fei
+position: 
+affiliation: 
+affiliation_link: 
+email: qfei@ucsd.edu
 
 
 # Search Engine Optimization (SEO)
-keywords: liuwenyu, yuliuwen, Liuwen Yu, Yu Liuwen, 俞柳闻
+keywords: eiqingqing, Qingqing Fei, Fei Qingqing 
 canonical: https://minimal-light-theme.yliu.me/
-description: Hi there! I am a postdoctoral researcher at the Department of Computer Science of the University of Luxembourg. My research lies at knowledge representation and reasoning, especially on common sense reasoning using tools like formal argumentation and non-monotonic logics. I am also interested in exploring different parts of computational AI argumentation, dialogue technology, AI ethics, etc., and also how these diverse domains interact and inform each other.
+description: Hi there! I am a Finance Ph.D. student at Rady School of Management, University of California San Diego. My research interests include Macro Finance and Empirical Asset Pricing.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -18,9 +18,9 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-cv_link: assets/files/Liuwen Yu_CV_2025June.pdf
-google_scholar: https://scholar.google.com.hk/citations?user=Fl1CSW0AAAAJ&hl=zh-CN&oi=ao
-dblp: https://dblp.org/pid/264/7514.html
+cv_link: assets/files/cv.pdf
+google_scholar: 
+dblp: 
 
 # Images 
 avatar: ./assets/img/WechatIMG124587.jpg
@@ -49,9 +49,6 @@ remote_theme: yaoyao-liu/minimal-light
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-sitemap
-
-
-
 
 # The following files will be removed from the generated website.
 exclude:

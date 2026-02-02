@@ -1,8 +1,11 @@
 main:
 
+  - title: "CV"
+    url: https://feiqingqing.github.io/cv.pdf
+    right: true
+    
   - title: "Research"
     url: ./#research
-    right: true
 
   # - title: "Additional Information"
   #   url: ./#additional-information

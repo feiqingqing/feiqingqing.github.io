@@ -17,68 +17,87 @@ Hi! I am a Finance Ph.D. student at Rady School of Management, University of Cal
 ## Research Skills 
 - Stata and Python Programming
 - Textual Analysis
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
-
+-- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
+--- Textual Analysis
+-- Textual Analysis
+-- Textual Analysis
 
 
 ## Research

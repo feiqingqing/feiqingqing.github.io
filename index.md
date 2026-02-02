@@ -20,6 +20,14 @@ Hi! I am a Finance Ph.D. student at Rady School of Management, University of Cal
 - Textual Analysis
 - Textual Analysis
 - Textual Analysis
+- Textual Analysis Programming
+- Textual Analysis
+- Textual Analysis
+- Textual Analysis
+- Textual Analysis
+- Textual Analysis
+- Textual Analysis
+- Textual Analysis Programming
 - Textual Analysis
 - Textual Analysis
 - Textual Analysis
@@ -30,6 +38,16 @@ Hi! I am a Finance Ph.D. student at Rady School of Management, University of Cal
 - Textual Analysis
 - Textual Analysis
 - Textual Analysis
+- Textual Analysis Programming
+- Textual Analysis
+- Textual Analysis
+- Textual Analysis
+- Textual Analysis
+- Textual Analysis
+- Textual Analysis
+- Textual Analysis
+- Textual Analysis
+- Textual Analysis Programming
 - Textual Analysis
 - Textual Analysis
 - Textual Analysis
@@ -39,32 +57,14 @@ Hi! I am a Finance Ph.D. student at Rady School of Management, University of Cal
 - Textual Analysis
 - Textual Analysis
 - Textual Analysis
+- Textual Analysis Programming
 - Textual Analysis
 - Textual Analysis
 - Textual Analysis
 - Textual Analysis
 - Textual Analysis
 - Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
-- Textual Analysis
+- Textual Analysis Programming
 - Textual Analysis
 - Textual Analysis
 

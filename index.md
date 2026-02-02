@@ -4,7 +4,7 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-## About Me
+<h2 style="margin: 60px 0px 10px;">About Me</h2>
 
 I am a Finance Ph.D. student at Rady School of Management, University of California San Diego. My research interests include Macro Finance and Empirical Asset Pricing.
 

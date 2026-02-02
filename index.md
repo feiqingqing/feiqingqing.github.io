@@ -18,7 +18,36 @@ Hi! I am a Finance Ph.D. student at Rady School of Management, University of Cal
 - Stata and Python Programming
 - Textual Analysis
 
-## Research Interests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Research
 - Macro Finance and Empirical Asset Pricing
 
 ## Working Progress 

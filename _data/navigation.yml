@@ -1,7 +1,7 @@
 main:
 
-  - title: "Research Interests"
-    url: ./#research-interests
+  - title: "Research"
+    url: ./#research
     right: true
 
   # - title: "Additional Information"
@@ -16,8 +16,8 @@ main:
   # - title: "Participating In Research Grants"
   #   url: ./#participating-in-research-grants
     
-  - title: "Education"
-    url: ./#education
+  # - title: "Education"
+  #   url: ./#education
 
-  - title: "About"
+  - title: "About Me"
     url: ./#about-me

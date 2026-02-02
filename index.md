@@ -9,7 +9,7 @@ layout: homepage
 I am a Finance Ph.D. student at Rady School of Management, University of California San Diego. My research interests include Macro Finance and Empirical Asset Pricing.
 
 ## Education 
-- PhD Student, Finance, University of California San Diego (2020-Present)
+- Ph.D. Student, Finance, University of California San Diego (2020-Present)
 
 ## Academic Performance 
 - GPA: 3.9/4; GMAT (770)
